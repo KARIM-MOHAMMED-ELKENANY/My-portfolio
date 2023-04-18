@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KARIM-MOHAMMED-ELKENANY/My-portfolio/static/css/main.df1cd63e.css",
+    "main.js": "/KARIM-MOHAMMED-ELKENANY/My-portfolio/static/js/main.2daacc04.js",
+    "static/media/karim-C.V-2.pdf": "/KARIM-MOHAMMED-ELKENANY/My-portfolio/static/media/karim-C.V-2.6f429c750091814f40df.pdf",
+    "index.html": "/KARIM-MOHAMMED-ELKENANY/My-portfolio/index.html",
+    "main.df1cd63e.css.map": "/KARIM-MOHAMMED-ELKENANY/My-portfolio/static/css/main.df1cd63e.css.map",
+    "main.2daacc04.js.map": "/KARIM-MOHAMMED-ELKENANY/My-portfolio/static/js/main.2daacc04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df1cd63e.css",
+    "static/js/main.2daacc04.js"
+  ]
+}
